@@ -1,0 +1,1 @@
+COUNT is used in Microsoft Windows systems with Counttable.txt and SpeciesTree_rooted_all.txt
