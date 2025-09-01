@@ -1,0 +1,19 @@
+# DarkHorse2 configuration template file
+
+# installation parameters
+[program_directory]=./Darkhorse2-DarkHorse-2.0_rev09
+[genbank_nr_fasta_path]=./Darkhorse/nr
+[names_dmp_path]=./Darkhorse/names.dmp
+[nodes_dmp_path]=./Darkhorse/nodes.dmp
+[protid_taxid_dmp_path]=./Darkhorse/prot.accession2taxid
+
+# database access parameters
+[db_name]=DarkHorseHGT
+[db_program]=mysql
+[db_host]=localhost
+[db_user]=root
+[db_user_password]=******
+[max_lines_per_packet]=16000
+[min_lineage_terms]=3
+[min_align_coverage]=0.7
+
